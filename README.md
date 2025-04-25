@@ -1,8 +1,4 @@
 <div align="center">
-  <h1>👨‍💻 Hi </h1>
-</div>
-
-<div align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marceloeatworld&theme=slateorange" />
 </div>
 
