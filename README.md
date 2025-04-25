@@ -1,1 +1,10 @@
-![marceloeatworld's Stats](https://github-readme-stats.vercel.app/api?username=marceloeatworld&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Marcelo's%20GitHub%20Stats&border_radius=10&ring_color=FFD700&bg_color=45,000000,191970,4B0082&title_color=00BFFF&icon_color=FFD700&text_color=FFFFFF&text_bold=true&number_format=long)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marceloeatworld&theme=slateorange)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marceloeatworld&theme=slateorange)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marceloeatworld&theme=slateorange)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marceloeatworld&theme=slateorange)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marceloeatworld&theme=slateorange&utcOffset=8)
